@@ -2,10 +2,10 @@
 
 We develop linguistic software for researchers at the INT and others.
 
-**NOTE**: we will be renaming our organisation from "INL" to "instituutnederlandsetaal" on Monday, April 14th 2025.
+**NOTE**: on Monday, April 14th 2025, we've renamed our organisation from "INL" to "instituutnederlandsetaal".
 
 ### Useful resources
 
 - [our website](https://www.ivdnt.org/)
-- [overview of our APIs](https://inl.github.io/)
+- [overview of our APIs](https://instituutnederlandsetaal.github.io/)
 - [Docker Hub](https://hub.docker.com/u/instituutnederlandsetaal)
